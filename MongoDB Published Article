@@ -9,3 +9,15 @@ https://www.geeksforgeeks.org/mongodb-findone-method/
 
 MongoDB - FindAndModify() Method
 https://www.geeksforgeeks.org/mongodb-findandmodify-method/
+
+MongoDB - db.collection.deleteone()
+https://www.geeksforgeeks.org/mongodb-db-collection-deleteone/
+
+MongoDB - db.collection.findOneAndReplace() Method
+https://www.geeksforgeeks.org/mongodb-db-collection-findoneandreplace-method/
+
+MongoDB - db.collection.CreateIndex() Method
+https://www.geeksforgeeks.org/mongodb-db-collection-createindex-method/
+
+MongoDB - db.collection.findOneAndUpdate() Method
+https://www.geeksforgeeks.org/mongodb-db-collection-findoneandupdate-method/
